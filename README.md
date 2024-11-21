@@ -1,5 +1,5 @@
-# projects
-collection of ongoing projects
+# Projects
+collection of projects
 
 # Wordfail + words_five
 
