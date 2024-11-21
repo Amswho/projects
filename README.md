@@ -1,9 +1,10 @@
 # Projects
 collection of projects
 
-# Wordfail + words_five
+# Wordy
 
-A console-based word guessing game inspired by Wordle. Players guess a five-letter word within six attempts, with feedback provided after each guess.
+wordfail + words_five
+A console-based word guessing game inspired by Wordle. Players guess a five-letter word within six attempts, with feedback provided after each guess. 
 
 ---
 
