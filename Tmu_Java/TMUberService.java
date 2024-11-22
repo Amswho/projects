@@ -1,15 +1,4 @@
-//Name: AMY HU 
-//Student Number: 501258348
-/*
- * 
- * General class that simulates a ride or a delivery in a simple Uber app
- * 
- * This class is made abstract since we never create an object. We only create subclass objects. 
- * 
- * Implement the Comparable interface and compare two service requests based on the distance
- */
 
-//ADDED IMPLEMENTS IN ORDER FOR SORT TO REGISTER 
 abstract public class TMUberService implements Comparable<TMUberService>
 {
   //private Driver driver;   
