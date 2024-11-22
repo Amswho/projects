@@ -1,5 +1,3 @@
-//Name: AMY HU 
-//Student Number: 501258348
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
