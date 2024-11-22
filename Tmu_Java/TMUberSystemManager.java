@@ -1,5 +1,3 @@
-//Name: AMY HU 
-//Student Number: 501258348
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -47,16 +45,6 @@ public class TMUberSystemManager
     
     totalRevenue = 0;
   }
-  //NO LONGER USED
-  // General string variable used to store an error message when something is invalid 
-  // (e.g. user does not exist, invalid address etc.)  
-  // The methods below will set this errMsg string and then return false
-  /*String errMsg = null;
-  public String getErrorMessage() //given
-  {
-    return errMsg;
-  }
-  */
   
     //NEW SET USER METHOD
   //This method uses the given array list to build a Map as described above.
@@ -249,18 +237,7 @@ public class TMUberSystemManager
 
   // Request a ride. User wallet will be reduced when drop off happens
   public void requestRide(String accountId, String from, String to) //CHNAGED
-  { //given comments
-    // Check for valid parameters
-  	// Use the account id to find the user object in the list of users
-    // Get the distance for this ride
-    // Note: distance must be > 1 city block!
-    // Find an available driver
-    // Create the TMUberRide object
-    // Check if existing ride request for this user - only one ride request per user at a time!
-    // Change driver status
-    // Add the ride request to the list of requests
-    // Increment the number of rides for this user
- 
+  {  
     //check parameter enusring validity
     if (accountId.trim().isEmpty() || accountId == null || from.isEmpty() || from == null || to.isEmpty() || to == null){
       throw new InvalidInputException("Input invalid");
@@ -493,14 +470,6 @@ public class TMUberSystemManager
     }
   }
 
-  // NOTNEEDED Sort trips (rides or deliveries) by distance 
-  // Then list all current service requests
-  // public void sortByDistance() //Works
-  // {
-  //   Collections.sort(serviceRequests);
-  //   listAllServiceRequests();
-  // }
-  //old BONUS not requestXL removed
  
 }
 
