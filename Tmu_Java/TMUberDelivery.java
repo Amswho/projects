@@ -1,11 +1,4 @@
-//Name: AMY HU 
-//Student Number: 501258348
-/*
- * 
- * This class simulates a food delivery service for a simple Uber app
- * 
- * A TMUberDelivery is-a TMUberService with some extra functionality
- */
+
 public class TMUberDelivery extends TMUberService
 {
   public static final String TYPENAME = "DELIVERY";
