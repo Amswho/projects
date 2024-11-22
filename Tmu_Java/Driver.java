@@ -1,11 +1,4 @@
-//Name: AMY HU 
-//Student Number: 501258348
-/*
- * 
- * This class simulates a car driver in a simple uber app 
- * 
- * Everything has been done for you except the equals() method
- */
+
 public class Driver
 {
   private String id;
