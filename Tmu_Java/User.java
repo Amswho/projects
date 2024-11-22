@@ -1,11 +1,4 @@
-//Name: AMY HU 
-//Student Number: 501258348
-/*
- * 
- * Class that simulates a user of a simple Uber app
- * 
- * Everything has been done for you except equals() method
- */
+
 public class User 
 {
   private String accountId;  
