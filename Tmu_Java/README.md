@@ -1,6 +1,6 @@
 # TMUberService System
 
-A Java-based simulation of a ride-sharing and delivery service similar to Uber. This system includes user and driver management, service request handling (Rides and Deliveries), and user interface functionality.
+A Java-based simulation of a ride-sharing and delivery service similar to Uber. This system includes user and driver management, service request handling (Rides and Deliveries), and user interface functionality. This was a course project.
 
 ## Project Structure
 
