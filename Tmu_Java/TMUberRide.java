@@ -1,11 +1,4 @@
-//Name: AMY HU 
-//Student Number: 501258348
-/*
- * 
- * This class simulates an ride service for a simple Uber app
- * 
- * A TMUberRide is-a TMUberService with some extra functionality
- */
+
 public class TMUberRide extends TMUberService
 {
   private int numPassengers;
