@@ -72,7 +72,7 @@ Post-Processing Steps:
 
 ---
 
-**Printed Product in SLA (left) AND FDM (right)**
+**Printed Product in SLA (right) AND FDM (left)**
 
 
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/f6061dbc-fbda-4ab4-a116-a9892c0bd086" />
