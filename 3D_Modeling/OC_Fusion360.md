@@ -40,6 +40,6 @@ The project focused on creating a detailed figure that tested both the artistic 
 ---
 
 **Screenshots of the Process**  
-(Include images or progress shots of the modeling process here)  
+
 
 This project highlights the iterative process of design and modeling in Autodesk Fusion, showcasing how initial sketches evolve into a detailed, fully realized figure.
