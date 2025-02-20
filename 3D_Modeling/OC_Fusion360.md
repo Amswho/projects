@@ -41,6 +41,8 @@ The project focused on creating a detailed figure that tested both the artistic 
 
 **Screenshots of the Process**  
 <img width="690" alt="image" src="https://github.com/user-attachments/assets/c4d3bd5c-d811-412e-8c78-90b32c98adbd" />
+
+
 Idea chosen, expanded upon and broken down.
 
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/29731a56-7fbe-42ae-a2b4-b5a8c8665204" />
