@@ -54,5 +54,6 @@ The project successfully combined creativity and technical skills to design and 
 
 ## Final
 <img width="407" alt="image" src="https://github.com/user-attachments/assets/a7248fc9-b2c0-48ef-9920-12bc881f4c11" />
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/6186fc13-2d9e-4a8f-bc63-f96f954b2153" />
 
 
