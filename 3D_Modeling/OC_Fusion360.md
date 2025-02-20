@@ -45,12 +45,37 @@ Idea chosen, expanded upon and broken down.
 
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/29731a56-7fbe-42ae-a2b4-b5a8c8665204" />
 <img width="302" alt="image" src="https://github.com/user-attachments/assets/33a15dbe-8630-4ec3-98f7-ec8273805a0c" />
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/4414c7ff-460a-49be-973f-b6cad98a319a" />
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/290aedbc-c3d2-41ab-97c8-25414f397aa7" />
+
+
+product broken down into assembly pieces 
+
+
+
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/8b5890ca-8a92-4640-90e9-19694b16b6d6" />
 
-PRINTED PRODUCT IN SLA AND FDM
+---
+
+**Post Processing** 
+
+Model was printed in both PLA and SLA to compare which material would yield better results for post-processing tasks like cleaning and painting.
+
+SLA Print: The SLA print produced the best results, offering a smooth surface and clean details.
+PLA Print: The PLA print also turned out well, but there were some issues with the bangs due to support material.
+
+Post-Processing Steps:
+- Support Removal: Both models required support removal and sanding.
+- Assembly: After sanding, a small hole was drilled into the torso and bottom pieces, allowing a thin metal rod to connect them, providing additional support.
+- Painting: The SLA model was painted with watered-down acrylic paint, applied in thin layers to achieve an even finish. However, painting proved challenging due to the intricate details. Applying too many layers sometimes caused the paint to peel, making it difficult to achieve a clean finish.
+
+---
+
+**Printed Product in SLA AND FDM**
+
+
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/f6061dbc-fbda-4ab4-a116-a9892c0bd086" />
 
 
-This project highlights the iterative process of design and modeling in Autodesk Fusion, showcasing how initial sketches evolve into a detailed, fully realized figure.
+**Final Product and FDM Prototype**
+
+<img width="376" alt="image" src="https://github.com/user-attachments/assets/53dfafc8-d9be-4789-8448-08ab412f2fc8" />
