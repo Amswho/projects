@@ -62,8 +62,8 @@ product broken down into assembly pieces
 
 Model was printed in both PLA and SLA to compare which material would yield better results for post-processing tasks like cleaning and painting.
 
-SLA Print: The SLA print produced the best results, offering a smooth surface and clean details.
-PLA Print: The PLA print also turned out well, but there were some issues with the bangs due to support material.
+- SLA Print: The SLA print produced the best results, offering a smooth surface and clean details.
+- PLA Print: The PLA print also turned out well, but there were some issues with the bangs due to support material.
 
 Post-Processing Steps:
 - Support Removal: Both models required support removal and sanding.
@@ -72,12 +72,12 @@ Post-Processing Steps:
 
 ---
 
-**Printed Product in SLA AND FDM**
+**Printed Product in SLA (left) AND FDM (right)**
 
 
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/f6061dbc-fbda-4ab4-a116-a9892c0bd086" />
 
 
-**Final Product and FDM Prototype**
+**Final Product (SLA) and FDM Prototype**
 
 <img width="376" alt="image" src="https://github.com/user-attachments/assets/53dfafc8-d9be-4789-8448-08ab412f2fc8" />
