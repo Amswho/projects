@@ -40,6 +40,17 @@ The project focused on creating a detailed figure that tested both the artistic 
 ---
 
 **Screenshots of the Process**  
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/c4d3bd5c-d811-412e-8c78-90b32c98adbd" />
+Idea chosen, expanded upon and broken down.
+
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/29731a56-7fbe-42ae-a2b4-b5a8c8665204" />
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/33a15dbe-8630-4ec3-98f7-ec8273805a0c" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/4414c7ff-460a-49be-973f-b6cad98a319a" />
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/290aedbc-c3d2-41ab-97c8-25414f397aa7" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/8b5890ca-8a92-4640-90e9-19694b16b6d6" />
+
+PRINTED PRODUCT IN SLA AND FDM
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/f6061dbc-fbda-4ab4-a116-a9892c0bd086" />
 
 
 This project highlights the iterative process of design and modeling in Autodesk Fusion, showcasing how initial sketches evolve into a detailed, fully realized figure.
