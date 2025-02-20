@@ -1,7 +1,7 @@
 ### Autodesk Fusion: Design and Model
 
 **Project Overview**  
-This project aimed to design and model a detailed, original figure, combining creativity and technical skill in Autodesk Fusion. The goal was to challenge my abilities by tackling a complex design, pushing the boundaries of both creativity and precision.
+This project aimed to design and model a detailed, original figure, combining creativity and technical skill in Autodesk Fusion. The goal was to challenge out abilities by tackling a complex design, pushing the boundaries of both creativity and precision.
 
 ---
 
