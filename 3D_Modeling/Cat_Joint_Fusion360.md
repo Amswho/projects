@@ -1,9 +1,8 @@
+# Autodesk Fusion Cats and Joints
 ## Project Overview
 This project aimed to design and model a cat figurine with parts connected by ball joints using Fusion 360. The goal was to test both artistic and technical skills in creating movable and detailed pieces while focusing on parametric design for ease of modification.
 
 ---
-
-## Planning & Sketches
 
 ### Object: Cat Figurine with Ball Joints
 The initial brainstorming focused on exploring different variations of the cat figurine's mobility using ball joints. The design was inspired by existing figures, which provided rough dimensions and use-case references. The sketches included different joint placements and sizes for flexibility in movement.
